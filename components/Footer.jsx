@@ -48,7 +48,7 @@ const Footer = () => {
                 <Link href={'https://wa.me/+2348096551572?text=Hello%2C%20I%20am%20messaging%20from%20Belovedthorlani.'}>
                   <Image src="/assets/whatsapp.svg" width={30} height={30} alt="WhatsApp" className='cursor-pointer' />
                 </Link>
-                <Link href={'https://twitter.com/tolani_popoola'}>
+                <Link href={'https://twitter.com/Thorlanii'}>
                   <Image src="/assets/twitter.svg" width={30} height={30} alt="Twitter" className='cursor-pointer' />
                 </Link>
               </div>
